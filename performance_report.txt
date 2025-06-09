@@ -1,0 +1,58 @@
+=== Performance Report ===
+
+Generated at: 2025-05-26 11:48:48
+
+Summary Statistics (in milliseconds):
+--------------------------------------------------
+
+Data Processing:
+  Average: 35.93ms
+  Median:  34.44ms
+  95th %:  51.34ms
+  99th %:  52.84ms
+  Min:     11.73ms
+  Max:     49.81ms
+
+Ui Update:
+  Average: 47.42ms
+  Median:  48.41ms
+  95th %:  62.44ms
+  99th %:  64.12ms
+  Min:     28.28ms
+  Max:     60.72ms
+
+End To End:
+  Average: 47.42ms
+  Median:  48.42ms
+  95th %:  62.44ms
+  99th %:  64.12ms
+  Min:     28.28ms
+  Max:     60.72ms
+
+Recent Performance Trends (last 5 measurements):
+--------------------------------------------------
+
+Measurement 1:
+  Data Processing: 35.68ms
+  UI Update:      47.06ms
+  End-to-End:     47.06ms
+
+Measurement 2:
+  Data Processing: 33.20ms
+  UI Update:      39.98ms
+  End-to-End:     39.98ms
+
+Measurement 3:
+  Data Processing: 33.13ms
+  UI Update:      48.28ms
+  End-to-End:     48.29ms
+
+Measurement 4:
+  Data Processing: 29.84ms
+  UI Update:      44.97ms
+  End-to-End:     44.97ms
+
+Measurement 5:
+  Data Processing: 44.01ms
+  UI Update:      50.72ms
+  End-to-End:     50.72ms
